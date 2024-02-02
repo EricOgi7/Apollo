@@ -1,0 +1,37 @@
+ => 
+[[32m#<Article:0x00007fce91262548[0m
+  id: [34m[1m1[0m,
+  title: [31m[1m"[0m[31mHELLOOOO[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mYEEEEEEEEEEEEES?[0m[31m[1m"[0m,
+  created_at: Thu, 01 Feb 2024 09:45:57.964485000 UTC +00:00,
+  updated_at: Thu, 01 Feb 2024 09:45:57.964485000 UTC +00:00[32m>[0m,
+ [32m#<Article:0x00007fce91c43350[0m
+  id: [34m[1m2[0m,
+  title: [31m[1m"[0m[31mWhat's up?[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31medited description of 2nd[0m[31m[1m"[0m,
+  created_at: Thu, 01 Feb 2024 07:50:34.444446000 UTC +00:00,
+  updated_at: Thu, 01 Feb 2024 09:04:54.808708000 UTC +00:00[32m>[0m,
+ [32m#<Article:0x00007fce91c42950[0m
+  id: [34m[1m4[0m,
+  title: [31m[1m"[0m[31mSup[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mAbbreviation of 'What is up'[0m[31m[1m"[0m,
+  created_at: Thu, 01 Feb 2024 08:36:51.205726000 UTC +00:00,
+  updated_at: Thu, 01 Feb 2024 08:36:51.205726000 UTC +00:00[32m>[0m,
+ [32m#<Article:0x00007fce91c426d0[0m
+  id: [34m[1m5[0m,
+  title: [31m[1m"[0m[31mNO[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mYES[0m[31m[1m"[0m,
+  created_at: Thu, 01 Feb 2024 08:39:51.023859000 UTC +00:00,
+  updated_at: Thu, 01 Feb 2024 08:40:21.029579000 UTC +00:00[32m>[0m,
+ [32m#<Article:0x00007fce91c42310[0m
+  id: [34m[1m10[0m,
+  title: [31m[1m"[0m[31mPASSABLE[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mI KNOW THIS IS PASSABLE[0m[31m[1m"[0m,
+  created_at: Thu, 01 Feb 2024 09:27:10.385508000 UTC +00:00,
+  updated_at: Thu, 01 Feb 2024 09:27:10.385508000 UTC +00:00[32m>[0m,
+ [32m#<Article:0x00007fce91c42090[0m
+  id: [34m[1m11[0m,
+  title: [31m[1m"[0m[31mHELLOOOO[0m[31m[1m"[0m,
+  description: [31m[1m"[0m[31mWHAAAAAAAAAT?[0m[31m[1m"[0m,
+  created_at: Thu, 01 Feb 2024 09:29:45.172478000 UTC +00:00,
+  updated_at: Thu, 01 Feb 2024 09:29:45.172478000 UTC +00:00[32m>[0m] 
