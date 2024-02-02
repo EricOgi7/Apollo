@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en-US">
 	<head>
-		<h1> Rails made </ph1>
+		<h1> Rails made </h1>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width" />
 		<title>My test page</title>
@@ -11,9 +11,8 @@
 			rel="stylesheets" />
 	</head>
 	<body>
-		<a href="about">
-			<p>About</p>
-		</a>
+		<%= link_to "About", about_path %> | 
+		<%= link_to "Articles", articles_path %>
 		<a href="https://www.cody.mn/">
 			<img src="https://cody.mn/870beb0ed1c38aeba495d4255aad4b09.svg" alt="cody">
 		</a>
